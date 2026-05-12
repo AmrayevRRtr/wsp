@@ -65,6 +65,4 @@ Log in with a username and password from the seed data (see below). After each s
 - Run commands from the **project root** so `DataBase/Users.bin` resolves correctly.
 - `Users.bin` is runtime data; you may add `DataBase/*.bin` to `.gitignore` if you do not want local DB files in Git.
 
-## License
 
-No license specified — default copyright applies unless you add one.
